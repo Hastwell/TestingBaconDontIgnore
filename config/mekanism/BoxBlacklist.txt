@@ -1,0 +1,83 @@
+# Use this file to tell Mekanism which blocks should not be picked up by a cardboard box.
+# Proper syntax is "NAME:META". Example (for stone):
+# stone:0
+
+# Vanilla
+minecraft:mob_spawner:*
+minecraft:wooden_door:*
+minecraft:iron_door:*
+minecraft:bed:0
+minecraft:bedrock:0
+minecraft:end_portal_frame:0
+
+# Thaumcraft
+Thaumcraft:blockAiry:0
+Thaumcraft:blockWarded:0
+Thaumcraft:blockCosmeticOpaque:2
+Thaumcraft:blockTable:*
+Thaumcraft:blockStoneDevice:2
+Thaumcraft:blockStoneDevice:7
+
+# Thaumic Horizons
+ThaumicHorizons:modMatrix:0
+
+# Thaumic Tinkerer
+ThaumicTinkerer:bedrockPortal:0
+
+# Thermal Expansion
+ThermalExpansion:Strongbox:*
+
+# OpenComputers
+OpenComputers:robot:*
+
+
+# SuperMassiveTech
+superMassiveTech:blackHole:0
+superMassiveTech:invisibleLight:0
+
+# Applied Energistics 2
+appliedenergistics2:tile.BlockDrive:0
+
+# Carpenters Blocks
+CarpentersBlocks:blockCarpentersSafe:*
+CarpentersBlocks:blockCarpentersDoor:*
+CarpentersBlocks:blockCarpentersBed:*
+
+# Industrialcraft 2
+IC2:blockPersonal:*
+
+# Twilight Forest
+TwilightForest:tile.TFBossSpawner:*
+TwilightForest:tile.TFTowerDevice:*
+TwilightForest:tile.TFTowerTranslucent:*
+
+# Thermal Expansion
+ThermalExpansion:Strongbox:*
+
+# Mystcraft
+Mystcraft:BlockDecay:*
+Mystcraft:BlockStarFissure:*
+Mystcraft:WritingDesk:*
+Mystcraft:BlockBookReceptacle:*
+Mystcraft:BlockBookstand:*
+Mystcraft:BlockLectern:*
+
+# BuildCraft
+BuildCraft|Core:EternalSpring:*
+
+# Hardcore Ender Expansion
+HardcoreEnderExpansion:instability_orb_ore:*
+
+# RandomThings
+RandomThings:spectreBlock:*
+
+# Because Fako is Paranoid
+AWWayOfTime:demonPortalMain:0
+HardcoreEnderExpansion:temple_end_portal:0
+Mystcraft:LinkPortal:0
+Sanguimancy:BlockDimensionPortal:0
+Thaumcraft:blockPortalEldritch:0
+Thaumcraft:blockEldritchNothing:0
+TwilightForest:TFPortal:0
+witchery:spiritportal:0
+witchery:tormentportal:0

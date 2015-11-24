@@ -1,0 +1,3 @@
+Searching for new mods in "/home/minecraft/tbdi-production/mods"...
+Loading mod: MawrPower
+Loading mod: Mystcraft

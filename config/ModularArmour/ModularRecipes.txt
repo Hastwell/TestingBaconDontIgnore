@@ -1,0 +1,38 @@
+Recipe Types{
+	Vanilla,
+}
+
+upgrade names{
+	calfShields = Calf Shields
+	explosionProtector = Explosion Protector
+	feeder = Auto Feeder
+	solar = Solar Helmet
+	electrolyzer = Electrolyzer
+	speed = Walking Speed Boost
+	sb = Armor Camouflage
+	gogglesOfRevealing = Upgrade of Revealing
+	stepAssist = Step Assist
+	fireProtector = Fire Protection
+	nightVision = Night Vision
+	thomazm = Thomaz's Textures
+	undead = Undead Protection
+	arthropod = Arthropod Protection
+	hardened = Hardened Energy
+	resonant = Resonant Energy
+	unblockableProtector = Unblockable Protector
+	pixie = Pixie Spawner
+	potion = Potion
+	witherProtector = Wither Protector
+	leadstone = Leadstone Energy
+	magicProtector = Magic Protector
+	visDiscount = Vis Discount
+	magnet = Magnet
+	reinforced = Reinforced Energy
+	fallDamage = Long Fall Dampeners
+	jumpBoost = Jump Boost
+	invisibility = Invisibility
+	lavaProtector = Lava Protection
+	playerProtection = Player Protector
+	jetpack = Jetpack
+}
+

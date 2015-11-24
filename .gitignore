@@ -1,0 +1,6 @@
+# Ignore all mods; don't need to be pushing all that crap to The Cloud.
+# We have the modlist and hashes anyway
+mods/**
+
+# Ignore MyTown settings (this lives in config, not world. CURSE THIS!)
+config/MyTown/**
